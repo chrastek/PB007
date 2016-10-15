@@ -1,0 +1,10 @@
+DIANIEL 
+sign up text specs opravit if
+------
+DAGMAR
+delete this:                                                                                      2.1.3.4. ELSE                                                                                       2.1.3.4.1. IF User asks for sending an authorization sms again                                                                                               2.1.3.4.1.1. Go back to point 2.1.3.2.
+and write it to alternative flow 
+
+
+
+
